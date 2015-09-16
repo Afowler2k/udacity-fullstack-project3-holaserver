@@ -5,13 +5,13 @@ http://localhost:8080/hello and http://localhost:8080/hola
 
 <H2>Quick start</H2>
 <ul>
-<li>
-<a href="https://github.com/Afowler2k/udacity-fullstack-project2/archive/master.zip">Download the latest release</a>
+<li>h
+<a href="ttps://github.com/Afowler2k/udacity-fullstack-project3-holaserver/archive/master.zip">Download the latest release</a>
 </li>
 <li>
 Clone the repo: 
 <code>
-git clone https://github.com/Afowler2k/udacity-fullstack-project2.git
+git clone ttps://github.com/Afowler2k/udacity-fullstack-project3-holaserver
 </code>
 </li>
 </ul>
